@@ -38,4 +38,3 @@ Finally, using Flask and HTML/CSS, we created the user-facing app to add informa
 - [SciKeras Documentation](https://www.adriangb.com/scikeras/stable/index.html)
 - [Scikit-Learn Tutorial: Machine Learning in Python Examples](https://www.guru99.com/scikit-learn-tutorial.html)
 
-For a deeper dive into our analysis and process, take a look at [our full presentation](https://docs.google
